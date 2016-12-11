@@ -1,0 +1,26 @@
+{
+  "name": "meshline-andrewray",
+  "files": "src/THREE.MeshLine.js",
+  "version": "1.0.0",
+  "description": "THREE.MeshLine, published to npm",
+  "main": "src/THREE.MeshLine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewRayCode/THREE.MeshLine.git"
+  },
+  "author": "Andrew Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewRayCode/THREE.MeshLine/issues"
+  },
+  "homepage": "https://github.com/AndrewRayCode/THREE.MeshLine#readme",
+  "devDependencies": {
+    "three": ">=0.82.1"
+  },
+  "devDependencies": {
+    "three": ">=0.82.1"
+  }
+}
